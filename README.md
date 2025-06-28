@@ -17,29 +17,6 @@ This project provides a practical example of applying brain-inspired computing p
 * An iterative learning loop to incrementally improve model accuracy by adjusting class hypervectors based on classification errors.
 * Visualization of classification results, including accuracy plots over epochs and confusion matrices, to assess model performance.
 
-## Getting Started
-
-To run the experiments in this repository:
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/YourUsername/HDC-MNIST-FHRR-Classification.git](https://github.com/YourUsername/HDC-MNIST-FHRR-Classification.git)
-    cd HDC-MNIST-FHRR-Classification
-    ```
-    *(Remember to replace `YourUsername` with your actual GitHub username and the repository name if it's different.)*
-
-2.  **Install dependencies:**
-    Ensure you have Python installed. You can install the necessary libraries using pip:
-    ```bash
-    pip install numpy matplotlib scikit-learn torchvision torch
-    ```
-
-3.  **Run the Jupyter Notebook:**
-    ```bash
-    jupyter notebook "MNIST using hypervectors.ipynb"
-    ```
-    Follow the steps in the notebook to execute the code and reproduce the results.
-
 ## Contributing
 
 Feel free to open issues or submit pull requests if you have suggestions, improvements, or bug fixes.
